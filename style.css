@@ -1,0 +1,22 @@
+@charset "utf-8";
+.container header {
+	background-color: #E26567;
+}
+.container header nav {
+	background-color: #E26567;
+}
+.container #hero {
+	background-image: url(images/celine-cao-lFyjhw0C-lY-unsplash.jpg);
+}
+.container #about {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 72.71%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 72.71%);
+	background-image: -o-linear-gradient(270deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 72.71%);
+	background-image: linear-gradient(180deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 72.71%);
+}
+.container #contact {
+	background-image: url(images/rod-long-xtL60zAyU-I-unsplash.jpg);
+}
+.container .banner {
+	background-image: url(images/steve-johnson-rji55XQsGkw-unsplash.jpg);
+}
